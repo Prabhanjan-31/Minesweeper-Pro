@@ -7,7 +7,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: url("C:/Users/shali/Desktop/minesweeper/assets/background.jpg");
+  background-image: url("assets/background.jpg");
   background-size: cover;
 }
 
@@ -172,3 +172,4 @@ button:active {
   0% { transform: scale(0.5); opacity: 0; }
   100% { transform: scale(1); opacity: 1; }
 }
+
