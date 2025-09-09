@@ -29,9 +29,8 @@ An interactive **Minesweeper game** built with **HTML, CSS, and JavaScript**, fe
 3. Right-click (or long-press on mobile) to flag suspected mines.  
 4. Clear all safe cells to win the game. 🎉  
 
-## 📸 Screenshots
-(Add screenshots of your game here by uploading images in `assets/` and linking them like below:)  
-![Gameplay Screenshot](assets/screenshot.png)
+## 📸 Game Interface
+![Gameplay Screenshot](assets/Game.png)
 
 ## 🔮 Future Improvements
 - Implement leaderboard with local storage  
