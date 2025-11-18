@@ -1,6 +1,6 @@
 # Minesweeper Pro 🎮
 
-🎮 **[Play the Game Here](https://Prabhanjan-31.github.io/Minesweeper-Pro/)**  
+🎮 **[Click here to play the Game](https://Prabhanjan-31.github.io/Minesweeper-Pro/)**  
 
 An interactive **Minesweeper game** built with **HTML, CSS, and JavaScript**, featuring dynamic board generation, multiple difficulty levels, and engaging UI animations.
 
